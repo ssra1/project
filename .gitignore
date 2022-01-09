@@ -1,5 +1,4 @@
 *.html
 *.css
 *.log
-*.targetfolde
-*.blog
+*.target
